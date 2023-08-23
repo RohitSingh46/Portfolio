@@ -9,11 +9,11 @@ const About = () => {
             <p  className='text-4xl font-bold inline border-b-4  border-gray-500'>About</p>
         </div>
 
-        <p className='text-xl mt-20'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sequi tempora eligendi amet aperiam in eaque officia perspiciatis non, neque ullam necessitatibus. Reprehenderit debitis dignissimos hic id voluptatibus rerum nihil animi vel quos ipsam, itaque quasi rem illum omnis nisi, fugit porro neque optio nulla corrupti cupiditate voluptate assumenda esse.</p>
+        <p className='text-xl mt-20'>Hey! I am Rohit Singh, a B-tech CS&IT student and an aspiring software engineer looking forward to learn a lot of stuff in the Software Industry and fall in love with writing code even more in the process.</p>
 
         <br />
         <p className='text-xl'>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur necessitatibus pariatur quasi quos incidunt nam sapiente adipisci, sint, rerum qui placeat sit at quaerat ratione quas ducimus quia provident beatae numquam cum eius quis odio suscipit rem. Sapiente, fugit. Placeat eveniet laboriosam minus ea necessitatibus repellat quisquam consequuntur nemo nobis!
+        I'm on a relentless quest to decode the language of machines and turn lines of code into innovative solutions. With an insatiable curiosity for all things tech, I'm the digital explorer navigating the vast landscapes of algorithms, data structures, and software architecture. 
         </p>
       </div>
     </div>
