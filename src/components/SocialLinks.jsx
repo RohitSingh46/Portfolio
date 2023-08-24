@@ -40,7 +40,7 @@ const SocialLinks = () => {
         </>
       ),
       href:'#',
-      style: 'rounded-br-md',
+      style: 'rounded-br-lg',
       download:true
     }
   ]
