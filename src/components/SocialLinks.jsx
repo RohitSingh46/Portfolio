@@ -11,7 +11,7 @@ const SocialLinks = () => {
         LinkedIn <FaLinkedin size={30}/>
         </>
       ),
-      href:'https://linkedIn.com',
+      href:'https://www.linkedin.com/in/rohit-singh-534669202/',
       style: 'rounded-tr-md'
     },
     {
